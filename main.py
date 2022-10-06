@@ -1,4 +1,4 @@
-# This has a syntax error
+# Fixed synatx error
 
-def main(:  # missing clossing parenthesis
+def main():
     print("running")..
